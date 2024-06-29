@@ -7,7 +7,7 @@ This project focuses on performing sentiment analysis on tweets from the 𝕏 (T
 
 ## Key Components 🔑
 
-### 1. Data Preprocessing 
+### 1. Data Preprocessing ⚙️
 - **Data Loading**: Tweets are loaded from a CSV file.
 - **Text Cleaning**: Includes lowercasing, removing URLs, special characters, and numbers.
 - **Tokenization**: Splitting text into tokens.
